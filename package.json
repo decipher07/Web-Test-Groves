@@ -1,0 +1,25 @@
+{
+  "name": "web-test-groves",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decipher07/Web-Test-Groves.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/decipher07/Web-Test-Groves/issues"
+  },
+  "homepage": "https://github.com/decipher07/Web-Test-Groves#readme",
+  "dependencies": {
+    "@types/selenium-webdriver": "^4.1.10",
+    "dotenv": "^16.0.3",
+    "selenium-webdriver": "^4.8.0"
+  }
+}
